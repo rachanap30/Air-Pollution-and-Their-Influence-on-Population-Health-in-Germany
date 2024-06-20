@@ -10,3 +10,5 @@ Dashboard Highlights :
 - Time Trends:Dynamic charts showcase air pollution trends over the years, facilitating a comparison of pollution levels across different periods.
 
 This project underscores the critical need for proactive measures to mitigate air pollution and safeguard public health. Effective visualization of this vital data serves as a powerful tool for policymakers, environmentalists, and the public to advocate for a cleaner and healthier environment.
+
+Thank you for reading :)
